@@ -1,0 +1,38 @@
+<RCC>
+  <qresource prefix="topNavigation">
+    <file>Assets/Light/close.png</file>
+    <file>Assets/Light/maximize.png</file>
+    <file>Assets/Light/minimize.png</file>
+    <file>Assets/Light/restore.png</file>
+    <file>Assets/Dark/close.png</file>
+    <file>Assets/Dark/maximize.png</file>
+    <file>Assets/Dark/minimize.png</file>
+    <file>Assets/Dark/restore.png</file>
+  </qresource>
+  <qresource prefix="mediaControls">
+    <file>Assets/Dark/volume_down.png</file>
+    <file>Assets/Dark/volume_off.png</file>
+    <file>Assets/Dark/volume_up.png</file>
+    <file>Assets/Light/volume_down.png</file>
+    <file>Assets/Light/volume_off.png</file>
+    <file>Assets/Light/volume_up.png</file>
+    <file>Assets/Dark/pause.png</file>
+    <file>Assets/Light/pause.png</file>
+    <file>Assets/Dark/next.png</file>
+    <file>Assets/Dark/play.png</file>
+    <file>Assets/Dark/previous.png</file>
+    <file>Assets/Light/next.png</file>
+    <file>Assets/Light/play.png</file>
+    <file>Assets/Light/previous.png</file>
+  </qresource>
+  <qresource prefix="leftNavigation">
+    <file>Assets/Dark/home.png</file>
+    <file>Assets/Dark/Menu.png</file>
+    <file>Assets/Dark/Music.png</file>
+    <file>Assets/Dark/setting.png</file>
+    <file>Assets/Light/home.png</file>
+    <file>Assets/Light/menu.png</file>
+    <file>Assets/Light/Music.png</file>
+    <file>Assets/Light/settings.png</file>
+  </qresource>
+</RCC>
